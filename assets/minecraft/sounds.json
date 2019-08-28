@@ -1,7 +1,7 @@
 {
   "ambient.cave": {
     "sounds": [
-      "ambient/cave/cave1",
+      "ambient/cave/cave10",
       "ambient/cave/cave2",
       "ambient/cave/cave3",
       "ambient/cave/cave4",
@@ -1407,7 +1407,11 @@
   },
   "block.lever.click": {
     "sounds": [
-      "random/click"
+      "random/lever1",
+      "random/lever2",
+      "random/lever3",
+      "random/lever4",
+      "random/lever5"
     ],
     "subtitle": "subtitles.block.lever.click"
   },
